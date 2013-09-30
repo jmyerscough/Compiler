@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registers>
+    <registerName address="01">TMR0</registerName>
+    <registerName address="81">OPTION</registerName>
+    <registerName address="02">PCL</registerName>
+    <registerName address="82">PCL</registerName>
+    <registerName address="03">STATUS</registerName>
+    <registerName address="83">STATUS</registerName>
+    <registerName address="04">FSR</registerName>
+    <registerName address="84">FSR</registerName>
+    <registerName address="05">PORTA</registerName>
+    <registerName address="85">TRISA</registerName>
+    <registerName address="06">PORTB</registerName>
+    <registerName address="86">TRISB</registerName>
+    <registerName address="08">EEDATA</registerName>
+    <registerName address="88">EECON1</registerName>
+    <registerName address="09">EEADR</registerName>
+    <registerName address="89">EECON2</registerName>
+    <registerName address="10">PCLATH</registerName>
+    <registerName address="138">PCLATH</registerName>
+    <registerName address="11">INTCON</registerName>
+    <registerName addrss="139">INTCON</registerName>
+</registers>

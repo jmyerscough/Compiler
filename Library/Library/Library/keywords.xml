@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keywords>
+  <keyword reserved="true">if</keyword>
+  <keyword reserved="true">else</keyword>
+  <keyword reserved="true">while</keyword>
+  <keyword reserved="true">do</keyword>
+  <keyword reserved="true">int</keyword>
+  <keyword reserved="true">switch</keyword>
+  <keyword reserved="true">case</keyword>
+  <keyword reserved="true">return</keyword>
+  <keyword reserved="true">break</keyword>
+  <keyword reserved="true">void</keyword>
+  <keyword reserved="true">goto</keyword>
+  <keyword reserved="true">signed</keyword>
+  <keyword reserved="true">unsigned</keyword>
+</keywords>
